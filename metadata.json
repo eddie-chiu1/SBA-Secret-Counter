@@ -1,0 +1,7 @@
+{
+  "name": "secretCounter",
+  "creator": "lunfi",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["roomsAPI", "BloomCore"]
+}
